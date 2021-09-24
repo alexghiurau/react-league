@@ -31,9 +31,21 @@ const Navbar = () => {
       </div>
 
       <div className='navbar-end navbar-menu'>
+        {/* Begin github link */}
+        <a
+          href='https://github.com/alexghiurau/react-league'
+          className='navbar-item icon-text'>
+          <span className='icon-text'>
+            <span className='icon'>
+              <i className='fab fa-github'></i>
+            </span>
+            <span>GitHub</span>
+          </span>
+        </a>
+
         {/* Begin twitch link */}
         <a
-          href='https://www.twitch.tv/seniorul'
+          href='https://www.twitch.tv/bothsomewhere'
           className='navbar-item icon-text'>
           <span className='icon-text'>
             <span className='icon'>
@@ -49,7 +61,7 @@ const Navbar = () => {
             <span className='icon'>
               <i className='fas fa-question-circle'></i>
             </span>
-            <span>Help</span>
+            <span>About this app</span>
           </span>
         </Link>
       </div>

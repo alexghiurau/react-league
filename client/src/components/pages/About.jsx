@@ -36,7 +36,7 @@ const About = () => {
             <br />
             <h1 className='title'>Changelog</h1>
             <span className='is-family-monospace'>
-              <p>24/09/2021 - add iOS title bar colour</p>
+              <p>24/09/2021 - working on iOS title bar colour, fix links</p>
               <p>
                 24/09/2021 - development restarted, changed name to a more
                 serious one

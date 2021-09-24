@@ -1,6 +1,6 @@
 # React-League.gg - League of Legends analytics and more...
 
-This application was created with the purpose of learning. Live version can be found [here](https://seniorul.herokuapp.com/).
+This application was created with the purpose of learning. Live version can be found [here](https://react-league.herokuapp.com).
 
 ## API Keys
 
@@ -9,4 +9,4 @@ This must be put in the .env file.
 
 ## TODO
 
-- Fill this README file...
+- Finish this readme file

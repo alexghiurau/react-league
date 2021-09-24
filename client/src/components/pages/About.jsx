@@ -36,6 +36,10 @@ const About = () => {
             <br />
             <h1 className='title'>Changelog</h1>
             <span className='is-family-monospace'>
+              <p>
+                24/09/2021 - development restarted, changed name to a more
+                serious one
+              </p>
               <p>08/07/2021 - added summoner not found functionality</p>
               <p>08/07/2021 - added error handling to server</p>
               <p>

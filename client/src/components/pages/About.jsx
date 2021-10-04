@@ -11,7 +11,7 @@ const About = () => {
             <p className='subtitle'>About this app</p>
             <p>
               <strong>Version:</strong>{' '}
-              <span className='tag is-link is-family-monospace'>1.1.4</span>
+              <span className='tag is-link is-family-monospace'>1.2.1</span>
             </p>
             <p>
               <strong>Built with:</strong>{' '}
@@ -21,7 +21,10 @@ const About = () => {
               <a href='https://bulma.io'>Bulma</a>
             </p>
             <p>
-              <strong>Github: </strong>TBD
+              <strong>Github: </strong>{' '}
+              <a href='https://github.com/alexghiurau/react-league'>
+                react-league
+              </a>
             </p>
             <br />
             <Link to='/' className='button is-link'>
